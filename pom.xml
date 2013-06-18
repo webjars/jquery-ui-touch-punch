@@ -12,7 +12,7 @@
     <groupId>org.webjars</groupId>
     <artifactId>jquery-ui-touch-punch</artifactId>
     <name>jquery-ui-touch-punch.js</name>
-    <version>0.2.2-SNAPSHOT</version>
+    <version>0.2.2</version>
     <description>WebJar for jquery-ui-touch-punch.js</description>
     <url>http://webjars.org</url>
 
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/jquery-ui-touch-punch</url>
         <connection>scm:git@github.com:webjars/jquery-ui-touch-punch.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-ui-touch-punch.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery-ui-touch-punch-0.2.2</tag>
     </scm>
 
     <developers>
