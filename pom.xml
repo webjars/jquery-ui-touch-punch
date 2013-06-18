@@ -9,10 +9,10 @@
     </parent>
     
     <packaging>jar</packaging>
-    <groupId>de.agilecoders.webjars</groupId>
+    <groupId>org.webjars</groupId>
     <artifactId>jquery-ui-touch-punch</artifactId>
     <name>jquery-ui-touch-punch.js</name>
-    <version>0.2.3-SNAPSHOT</version>
+    <version>0.2.2-SNAPSHOT</version>
     <description>WebJar for jquery-ui-touch-punch.js</description>
     <url>http://webjars.org</url>
 
@@ -25,9 +25,9 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/l0rdn1kk0n/webjars-jquery-ui-touch</url>
-        <connection>scm:git@github.com:l0rdn1kk0n/webjars-jquery-ui-touch.git</connection>
-        <developerConnection>scm:git:https://github.com/l0rdn1kk0n/webjars-jquery-ui-touch.git</developerConnection>
+        <url>http://github.com/webjars/jquery-ui-touch-punch</url>
+        <connection>scm:git@github.com:webjars/jquery-ui-touch-punch.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/jquery-ui-touch-punch.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
