@@ -63,6 +63,16 @@
         <mapTo.version>0.2.3</mapTo.version>
         <upstream.url>https://github.com/furf/jquery-ui-touch-punch/archive</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${mapTo.version}</destDir>
+        <requirejs>
+            {
+                "paths": {
+                    "jquery-ui-touch-punch": "jquery.ui.touch-punch"
+                },
+                "shim": {
+                    "jquery-ui-touch-punch": [ "jquery-ui" ]
+                }
+            }
+        </requirejs>
     </properties>
 
     <build>
