@@ -5,9 +5,9 @@
 //
 requirejs.config({
     paths: {
-        'jquery-ui-touch-punch' : webjars.path('jquery-ui-touch-punch', 'jquery.ui.touch-punch') 
+        'jquery-ui-touch-punch' : 'jquery.ui.touch-punch'
     },
     shim: {
-        'jquery-ui-touch-punch': [ 'webjars!jquery-ui.js' ]
+        'jquery-ui-touch-punch': [ 'jquery-ui' ]
     }
 });
