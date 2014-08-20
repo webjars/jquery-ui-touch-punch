@@ -53,7 +53,7 @@
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>jquery-ui</artifactId>
-            <version>1.10.4-1</version>
+            <version>1.11.0-1</version>
         </dependency>
     </dependencies>
 
